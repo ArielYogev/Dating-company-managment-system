@@ -1,0 +1,16 @@
+﻿  Address.c
+  CompanyFile.c
+  fileHelper.c
+  FinancialManagement.c
+  Client.c
+  Company.c
+  Date.c
+  General.c
+  List.c
+  main.c
+  MatchMaker.c
+  Meet.c
+  PeopleManager.c
+  Place.c
+  Generating Code...
+  dateCompany_FinalProject.vcxproj -> C:\C.S FILES\yearBsemesterA\system programing\dateCompany_FinalProject\x64\Debug\dateCompany_FinalProject.exe
